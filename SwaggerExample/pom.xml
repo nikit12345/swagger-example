@@ -93,6 +93,7 @@
 			</plugin>
 		</plugins>
 		<finalName>swagger-example</finalName>
+	
 	</build>
 
 </project>
